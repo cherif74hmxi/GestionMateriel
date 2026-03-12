@@ -1,0 +1,14 @@
+C:\Users\cherif\GestionMateriel\GestionMateriel\bin\Debug\net10.0-windows\GestionMateriel.exe
+C:\Users\cherif\GestionMateriel\GestionMateriel\bin\Debug\net10.0-windows\GestionMateriel.deps.json
+C:\Users\cherif\GestionMateriel\GestionMateriel\bin\Debug\net10.0-windows\GestionMateriel.runtimeconfig.json
+C:\Users\cherif\GestionMateriel\GestionMateriel\bin\Debug\net10.0-windows\GestionMateriel.dll
+C:\Users\cherif\GestionMateriel\GestionMateriel\bin\Debug\net10.0-windows\GestionMateriel.pdb
+C:\Users\cherif\GestionMateriel\GestionMateriel\obj\Debug\net10.0-windows\GestionMateriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cherif\GestionMateriel\GestionMateriel\obj\Debug\net10.0-windows\GestionMateriel.AssemblyInfoInputs.cache
+C:\Users\cherif\GestionMateriel\GestionMateriel\obj\Debug\net10.0-windows\GestionMateriel.AssemblyInfo.cs
+C:\Users\cherif\GestionMateriel\GestionMateriel\obj\Debug\net10.0-windows\GestionMateriel.csproj.CoreCompileInputs.cache
+C:\Users\cherif\GestionMateriel\GestionMateriel\obj\Debug\net10.0-windows\GestionMateriel.dll
+C:\Users\cherif\GestionMateriel\GestionMateriel\obj\Debug\net10.0-windows\refint\GestionMateriel.dll
+C:\Users\cherif\GestionMateriel\GestionMateriel\obj\Debug\net10.0-windows\GestionMateriel.pdb
+C:\Users\cherif\GestionMateriel\GestionMateriel\obj\Debug\net10.0-windows\GestionMateriel.genruntimeconfig.cache
+C:\Users\cherif\GestionMateriel\GestionMateriel\obj\Debug\net10.0-windows\ref\GestionMateriel.dll
