@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "K4KqUiqPOwk=",
+  "dgSpecHash": "br2ggZ87LaA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cherif\\GestionMateriel\\GestionMateriel\\GestionMateriel.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\cherif\\GestionMateriel-1\\GestionMateriel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cherif\\.nuget\\packages\\microsoft.data.sqlite\\8.0.12\\microsoft.data.sqlite.8.0.12.nupkg.sha512",
+    "C:\\Users\\cherif\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.12\\microsoft.data.sqlite.core.8.0.12.nupkg.sha512",
+    "C:\\Users\\cherif\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\cherif\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\cherif\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\cherif\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512"
+  ],
   "logs": []
 }
