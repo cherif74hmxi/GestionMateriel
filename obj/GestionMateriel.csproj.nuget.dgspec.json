@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cherif\\GestionMateriel-1\\GestionMateriel.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu-24.04\\home\\cherif\\LyonPalme-Gestion-Materiel\\GestionMateriel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cherif\\GestionMateriel-1\\GestionMateriel.csproj": {
+    "\\\\wsl.localhost\\Ubuntu-24.04\\home\\cherif\\LyonPalme-Gestion-Materiel\\GestionMateriel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cherif\\GestionMateriel-1\\GestionMateriel.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu-24.04\\home\\cherif\\LyonPalme-Gestion-Materiel\\GestionMateriel.csproj",
         "projectName": "GestionMateriel",
-        "projectPath": "C:\\Users\\cherif\\GestionMateriel-1\\GestionMateriel.csproj",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu-24.04\\home\\cherif\\LyonPalme-Gestion-Materiel\\GestionMateriel.csproj",
         "packagesPath": "C:\\Users\\cherif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cherif\\GestionMateriel-1\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu-24.04\\home\\cherif\\LyonPalme-Gestion-Materiel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
